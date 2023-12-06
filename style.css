@@ -1,0 +1,10 @@
+.flex{
+    background-color: blueviolet;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+}
+.flex div{
+    padding: 1rem;
+    background-color: darkmagenta;
+}
